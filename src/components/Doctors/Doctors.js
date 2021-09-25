@@ -1,46 +1,31 @@
 import React from 'react';
+import"./Doctors.css"
 
-const Doctors = () => {
+const Doctors = ({ doctor, handleAppointment }) => {
+    const { name, gender, department, desc, fee, picture } = doctor
     return (
         <div>
-            <div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card">
-      <img src="..." class="card-img-top" alt="..."/>
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card">
-      <img src="" class="card-img-top" alt="..."/>
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card">
-      <img src="..." class="card-img-top" alt="..."/>
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="card">
-      <img src="..." class="card-img-top" alt="..."/>
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-</div>
+
+            <div className="col">
+                <div className="card">
+                    <img src={picture} className="card-img-top" alt="..." />
+                    <div className="card-body">
+                        <h5 className="card-title">{name}</h5>
+                        <p className="card-tex fs-7">{department}</p>
+                        <p className="card-text fs-7">{desc}</p>
+                        <div className="d-flex justify-content-between">
+                            <p className="card-text  fs-7"><b>Gender:</b> {gender}</p>
+                            <p className="card-text fs-7"><b>Fee:</b> {fee}</p>
+
+                        </div>
+                        <button onClick={() => {
+                            handleAppointment(doctor)
+                        }} className="btn btn-success float-end fs-8">
+                            <i className="far fa-calendar-check"></i> Get Appointment
+                        </button>
+                    </div>
+                </div>
+            </div>
         </div>
     );
 };
