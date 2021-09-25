@@ -1,0 +1,158 @@
+[
+    {
+        "id": 10001,
+        "name": "Dr. Anica Salsabil",
+        "department": "Conservative Dentistry & Endodontics",
+        "picture": "http://www.farazydental.com/images/doctors/1581938995.jpg",
+        "location": "Satkhira",
+        "fee" :6500,
+        "gender": "Female",
+        "desc": "BDS (DU), PGT in Conservative Dentistry (Shaheed Suhrawardy Medical College Hospital & Dental Unit), PGT in Oral & Maxillofacial Surgery (Dhaka Medical College and Hospital)",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Sunday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "8:00 AM - 4:00 PM"
+        }
+    },
+    {
+        "id": 10002,
+        "name": "Assistant Professor. Dr.Wahidujjaman (Jaman)",
+        "department": "Oral & Maxillofacial Surgery",
+        "picture": "http://www.farazydental.com/images/doctors/1537779364.JPG",
+        "location": "Dhaka",
+        "fee" :4500,
+        "gender": "Male",
+        "desc": "BDS (Dhaka), MS (Oral & Maxillofacial Surgery), FCPS (Oral & Maxilofacial Surgery).",
+        "availability": {
+            "Sunday": "7:00 PM - 11:00 PM",
+            "Tuesday": "7:00 PM - 11:00 PM",
+            "Thursday": "7:00 PM - 11:00 PM"
+        }
+    },
+    {
+        "id": 10003,
+        "name": "Dr. A.F.M Shahidur Rahman (Limon)",
+        "department": "Dental & Maxillofacial",
+        "picture": "http://www.farazydental.com/images/doctors/1537779399.JPG",
+        "location": "Khulna",
+        "fee" :8100,
+        "gender": "Male",
+        "desc": "BDS, FCPS, MS. BCS (Health)",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM"
+        }
+    },
+    {
+        "id": 10004,
+        "name": "Dr. Auntara Azizah",
+        "department": "Oral & Maxillofacial Surgery",
+        "picture": "http://www.farazydental.com/images/doctors/1577013327.jpg",
+        "location": "Jossere",
+        "fee" :1200,
+        "gender": "Female",
+        "desc": "B D S, (DU), P G T(Oral and Maxillofacial Surgery)",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Sunday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "8:00 AM - 4:00 PM"
+        }
+    },
+    {
+        "id": 10005,
+        "name": "Dr. Farzana Reza",
+        "department": "Conservative Dentistry & Endodontics",
+        "picture": "http://www.farazydental.com/images/doctors/1576668003.jpg",
+        "location": "Satkhira Sador",
+        "fee" :6300,
+        "gender": "Female",
+        "desc": "BDS (DU), MPH (Dentistry), BUHS, PGT (Conservative Dentistry), BSMMU.",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Sunday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "8:00 AM - 4:00 PM"
+        }
+    },
+    {
+        "id": 10006,
+        "name": "Dr. Jariatul Kareem",
+        "department": "Oral & Maxillofacial Surgery",
+        "picture": "http://www.farazydental.com/images/doctors/1576406579.jpg",
+        "location": "Gazipur",
+        "fee" :9500,
+        "gender": "Female",
+        "desc": "BDS (RU), PGT (Oral & Maxillofacial Surgery)",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Sunday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "8:00 AM - 4:00 PM"
+        }
+    },
+    {
+        "id": 10007,
+        "name": "Dr. Md. Al-Amin Sarkar",
+        "department": "Prosthodontics",
+        "picture": "http://www.farazydental.com/images/doctors/1537779254.JPG",
+        "location": "Dinajpur",
+        "fee" :5200,
+        "gender": "Male",
+        "desc": "BDS, BCS(Health), FCPS (Prosthodontics), Oral & Dental Surgeon, Consultant",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Sunday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "8:00 AM - 4:00 PM"
+        }
+    },
+    {
+        "id": 10008,
+        "name": "Dr. Md. Faisal Ahmed",
+        "department": "Conservative Dentistry & Endodontics",
+        "picture": "http://www.farazydental.com/images/doctors/1537779119.JPG",
+        "location": "Nature",
+        "fee" :5500,
+        "gender": "Male",
+        "desc": "B.D.S (DU), P.G.T (Oral & Maxillofacial Surgery) Specially Trained in Aesthetic Dentistry & Endodontics",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Sunday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "8:00 AM - 4:00 PM"
+        }
+    },
+    {
+        "id": 10009,
+        "name": "Dr. Monjurul Islam",
+        "department": "Oral & Maxillofacial Surgery",
+        "picture": "http://www.farazydental.com/images/doctors/1538484330.jpg",
+        "location": "khulna",
+        "fee" :7000,
+        "gender": "Male",
+        "desc": "BDS (DU), PGT (Oral & Maxillofacial Surgery), MPH (NIPSOM)",
+        "availability": {
+            "Saturday": "8:00 AM - 4:00 PM",
+            "Sunday": "8:00 AM - 4:00 PM",
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "8:00 AM - 4:00 PM"
+        }
+    }
+]
