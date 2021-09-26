@@ -16,7 +16,6 @@ const Header = () => {
                             <li className="nav-item">
                                 <a className="nav-link active" aria-current="page" href="/">Make an Appointment</a>
                             </li>
-
                             <li className="nav-item">
                                 <a className="nav-link active" aria-current="page" href="/">About</a>
                             </li>
@@ -34,8 +33,7 @@ const Header = () => {
                             </li>
                         </ul>
                         <div className="d-flex">
-                            <a className="fs-3" href="/"><i class="fab fa-facebook "></i></a>
-
+                            <a className="fs-3" href="/"><i className="fab fa-facebook "></i></a>
                         </div>
                     </div>
                 </div>
