@@ -2,7 +2,7 @@ import React from 'react';
 import"./Doctors.css"
 
 const Doctors = ({ doctor, handleAppointment }) => {
-    const { name, gender, department, desc, fee, picture } = doctor
+    const { name, gender, department, desc, fee, picture,location } = doctor
     return (
         <div>
 
@@ -18,6 +18,7 @@ const Doctors = ({ doctor, handleAppointment }) => {
                             <p className="card-text fs-7"><b>Fee:</b> {fee}</p>
 
                         </div>
+                            <p className="card-text  fs-7"><b>Location:</b> {location}</p>
                         <button onClick={() => {
                             handleAppointment(doctor)
                         }} className="btn btn-success float-end fs-8">
