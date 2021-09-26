@@ -1,13 +1,11 @@
-# Assignment - 08
-
-
-## Dentist Specialist Get An Appointment
+# Dentist Specialist Get An Appointment
+    ### Assignment - 08
 
  ##### Live Server: [Dentist Specialist](https://doctors-a8.netlify.app/) 
 
 
 ## Features
 
-    ▶ Show Single Product Details
-    ▶ Buy Now with SSLcommarce 😜😜 
-    ▶ Dynamic Rating in Card
+    ▶ Your choose to Get Appointment
+    ▶ See how many doctors you get an appointment
+    ▶ The total cost of your appointment
