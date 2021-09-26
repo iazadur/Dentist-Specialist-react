@@ -54,8 +54,8 @@ const Header = () => {
                 </div>
             </nav>
             <hr />
-            <div className="text-center shadow-sm fs-1 fw-bolder text-dark">
-                Total Budget: <b>100 Million</b>
+            <div className="text-center shadow-sm fs-1  text-dark">
+                Total Budget: <b>$ 100 Million</b>
             </div>
         </div>
     );
