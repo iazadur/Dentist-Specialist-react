@@ -1,7 +1,7 @@
 # Dentist Specialist Get An Appointment
 ### (Assignment - 08)
 
-##### Live Server: [Dentist Specialist](https://doctors-a8.netlify.app/) 
+##### Live Server: [Dentist Specialist](https://dentistspecialist.netlify.app/) 
 
 
 ## Features
